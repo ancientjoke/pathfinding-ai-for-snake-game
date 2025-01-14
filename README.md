@@ -1,6 +1,6 @@
 # Pathfinding AI for Snake game
 
-...
+![pathfinding](https://github.com/user-attachments/assets/37b0d6c2-23b9-4a2a-9615-31d71f85a977)
 
 ## Setup and Execution
 
