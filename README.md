@@ -2,17 +2,6 @@
 
 ![pathfinding](https://github.com/user-attachments/assets/37b0d6c2-23b9-4a2a-9615-31d71f85a977)
 
-## Setup and Execution
-
-1. Download and install [Python 3](https://www.python.org).
-2. Install the required modules by executing the following command in your terminal:
-```bash
-pip install pygame
-```
-3. Run `play.py` to start the game.
-
-## Functionality
-
 1. Finding the Shortest Path:
 - The snake employs the BFS (Breadth-First Search) algorithm to calculate the shortest path (path_1) to the apple. If path_1 is not available, the process skips to step 4.
 
